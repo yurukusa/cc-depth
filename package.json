@@ -1,0 +1,25 @@
+{
+  "name": "cc-depth",
+  "version": "1.0.0",
+  "description": "How many turns per Claude Code session? Distribution of conversation depth.",
+  "type": "module",
+  "bin": {
+    "cc-depth": "./cli.mjs"
+  },
+  "scripts": {
+    "start": "node cli.mjs"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "ai",
+    "developer-tools",
+    "analytics",
+    "productivity"
+  ],
+  "author": "yurukusa",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
