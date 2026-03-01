@@ -65,7 +65,7 @@ For interactive users, a typical session is 2–30 turns. Autonomous loop setups
 
 ## Part of cc-toolkit
 
-cc-depth is tool #49 in [cc-toolkit](https://yurukusa.github.io/cc-toolkit/) — 49 free tools for Claude Code users.
+cc-depth is tool #49 in [cc-toolkit](https://yurukusa.github.io/cc-toolkit/) — 50 free tools for Claude Code users.
 
 Related:
 - [cc-session-length](https://github.com/yurukusa/cc-session-length) — Duration distribution
